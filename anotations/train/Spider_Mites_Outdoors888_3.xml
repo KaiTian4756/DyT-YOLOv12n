@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>Spider_Mites_Outdoors888_3.jpg</filename>
+    <path>internetdataug\Spider_Mites_Outdoors888_3.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>785</width>
+        <height>570</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>11</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>45</xmin>
+            <ymin>7</ymin>
+            <xmax>782</xmax>
+            <ymax>570</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>IMG_2673_4.jpg</filename>
+    <path>inhouse\IMG_2673_4.JPG</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3770</width>
+        <height>2641</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>13</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1440</xmin>
+            <ymin>227</ymin>
+            <xmax>3239</xmax>
+            <ymax>1873</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>Tom_SeptFS1_6.jpg</filename>
+    <path>internetdataug\Tom_SeptFS1_6.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>391</width>
+        <height>270</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>10</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>0</ymin>
+            <xmax>387</xmax>
+            <ymax>270</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>internetTLM(2) - &#21103;&#26412; - &#21103;&#26412;_6.jpg</filename>
+    <path>internetdataug\internetTLM(2) - &#21103;&#26412; - &#21103;&#26412;_6.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>111</width>
+        <height>236</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>9</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>0</xmin>
+            <ymin>6</ymin>
+            <xmax>111</xmax>
+            <ymax>206</ymax>
+        </bndbox>
+    </object>
+</annotation>

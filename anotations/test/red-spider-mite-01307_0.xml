@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>red-spider-mite-01307_0.jpg</filename>
+    <path>internetdataug\red-spider-mite-01307_0.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>519</width>
+        <height>364</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>11</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>9</xmin>
+            <ymin>13</ymin>
+            <xmax>515</xmax>
+            <ymax>362</ymax>
+        </bndbox>
+    </object>
+</annotation>

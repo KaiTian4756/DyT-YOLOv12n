@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>InternetTEB(18)_5.jpg</filename>
+    <path>internetdataug\InternetTEB(18)_5.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>347</width>
+        <height>245</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>16</xmin>
+            <ymin>15</ymin>
+            <xmax>347</xmax>
+            <ymax>223</ymax>
+        </bndbox>
+    </object>
+</annotation>

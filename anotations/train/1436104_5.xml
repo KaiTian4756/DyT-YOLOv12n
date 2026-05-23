@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>1436104_5.jpg</filename>
+    <path>internetdataug\1436104_5.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>174</width>
+        <height>125</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>7</xmin>
+            <ymin>1</ymin>
+            <xmax>165</xmax>
+            <ymax>125</ymax>
+        </bndbox>
+    </object>
+</annotation>

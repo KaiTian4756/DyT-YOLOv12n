@@ -1,0 +1,50 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>fieldTYLCV (34)_1.jpg</filename>
+    <path>inhouse\fieldTYLCV (34)_1.JPG</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1516</width>
+        <height>2235</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>13</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>126</xmin>
+            <ymin>0</ymin>
+            <xmax>1431</xmax>
+            <ymax>1528</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>13</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1248</xmin>
+            <ymin>1367</ymin>
+            <xmax>1516</xmax>
+            <ymax>1739</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>13</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>131</xmin>
+            <ymin>1047</ymin>
+            <xmax>859</xmax>
+            <ymax>1933</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>leaf_mold_tomato2x500_6.jpg</filename>
+    <path>internetdataug\leaf_mold_tomato2x500_6.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>476</width>
+        <height>637</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>9</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>10</xmin>
+            <ymin>6</ymin>
+            <xmax>472</xmax>
+            <ymax>628</ymax>
+        </bndbox>
+    </object>
+</annotation>

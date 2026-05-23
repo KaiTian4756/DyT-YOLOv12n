@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>fhr-88888-12567-686_5.jpg</filename>
+    <path>internetdataug\fhr-88888-12567-686_5.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>180</width>
+        <height>349</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>11</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2</xmin>
+            <ymin>13</ymin>
+            <xmax>164</xmax>
+            <ymax>347</ymax>
+        </bndbox>
+    </object>
+</annotation>

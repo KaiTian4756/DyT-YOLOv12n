@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>septoria_tom_seedlings3x500_1.jpg</filename>
+    <path>internetdataug\septoria_tom_seedlings3x500_1.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>443</width>
+        <height>375</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>10</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>17</xmin>
+            <ymin>0</ymin>
+            <xmax>441</xmax>
+            <ymax>375</ymax>
+        </bndbox>
+    </object>
+</annotation>

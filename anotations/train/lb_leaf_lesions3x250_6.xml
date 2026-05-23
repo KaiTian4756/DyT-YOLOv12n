@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>lb_leaf_lesions3x250_6.jpg</filename>
+    <path>internetdataug\lb_leaf_lesions3x250_6.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>246</width>
+        <height>222</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2</xmin>
+            <ymin>4</ymin>
+            <xmax>244</xmax>
+            <ymax>211</ymax>
+        </bndbox>
+    </object>
+</annotation>

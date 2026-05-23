@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>internetTSL(10) - &#21103;&#26412;_5.jpg</filename>
+    <path>internetdataug\internetTSL(10) - &#21103;&#26412;_5.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>190</width>
+        <height>192</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>10</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>5</xmin>
+            <ymin>0</ymin>
+            <xmax>190</xmax>
+            <ymax>192</ymax>
+        </bndbox>
+    </object>
+</annotation>

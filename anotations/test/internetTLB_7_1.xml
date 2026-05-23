@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>internetTLB(7)_1.jpg</filename>
+    <path>internetdataug\internetTLB(7)_1.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>315</width>
+        <height>263</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>73</xmin>
+            <ymin>0</ymin>
+            <xmax>284</xmax>
+            <ymax>263</ymax>
+        </bndbox>
+    </object>
+</annotation>

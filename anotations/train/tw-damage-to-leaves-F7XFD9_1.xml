@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>tw-damage-to-leaves-F7XFD9_1.jpg</filename>
+    <path>internetdataug\tw-damage-to-leaves-F7XFD9_1.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>374</width>
+        <height>264</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>11</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>8</xmin>
+            <ymin>6</ymin>
+            <xmax>340</xmax>
+            <ymax>256</ymax>
+        </bndbox>
+    </object>
+</annotation>

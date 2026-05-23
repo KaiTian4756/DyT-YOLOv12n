@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>InternetTEB(23)_3.jpg</filename>
+    <path>internetdataug\InternetTEB(23)_3.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>223</width>
+        <height>199</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>0</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>44</xmin>
+            <ymin>2</ymin>
+            <xmax>166</xmax>
+            <ymax>177</ymax>
+        </bndbox>
+    </object>
+</annotation>

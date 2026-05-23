@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>tmv (6)_5.jpg</filename>
+    <path>internetdataug\tmv (6)_5.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>721</width>
+        <height>531</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>13</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>11</xmin>
+            <ymin>0</ymin>
+            <xmax>719</xmax>
+            <ymax>531</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>Target-Spot-Tomato1_1.jpg</filename>
+    <path>internetdataug\Target-Spot-Tomato1_1.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>581</width>
+        <height>420</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>12</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3</xmin>
+            <ymin>20</ymin>
+            <xmax>541</xmax>
+            <ymax>398</ymax>
+        </bndbox>
+    </object>
+</annotation>

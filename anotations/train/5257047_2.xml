@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>5257047_2.jpg</filename>
+    <path>internetdataug\5257047_2.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>154</width>
+        <height>78</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>6</xmin>
+            <ymin>5</ymin>
+            <xmax>153</xmax>
+            <ymax>78</ymax>
+        </bndbox>
+    </object>
+</annotation>

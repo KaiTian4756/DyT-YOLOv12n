@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>late_blight_tomato_leaf_sporex500_6.jpg</filename>
+    <path>internetdataug\late_blight_tomato_leaf_sporex500_6.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>489</width>
+        <height>361</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>2</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>41</xmin>
+            <ymin>2</ymin>
+            <xmax>487</xmax>
+            <ymax>354</ymax>
+        </bndbox>
+    </object>
+</annotation>

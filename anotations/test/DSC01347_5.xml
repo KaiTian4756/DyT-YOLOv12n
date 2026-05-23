@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>DSC01347_5.jpg</filename>
+    <path>inhouse\DSC01347_5.JPG</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3114</width>
+        <height>2867</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>13</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>530</xmin>
+            <ymin>1224</ymin>
+            <xmax>2118</xmax>
+            <ymax>2684</ymax>
+        </bndbox>
+    </object>
+</annotation>

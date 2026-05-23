@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>tsl1 (6)_5.jpg</filename>
+    <path>internetdataug\tsl1 (6)_5.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>362</width>
+        <height>202</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>10</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>63</xmin>
+            <ymin>0</ymin>
+            <xmax>361</xmax>
+            <ymax>202</ymax>
+        </bndbox>
+    </object>
+</annotation>

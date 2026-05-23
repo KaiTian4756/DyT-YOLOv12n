@@ -1,0 +1,38 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>fieldHealth (24)_6.jpg</filename>
+    <path>inhouse\fieldHealth (24)_6.JPG</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1233</width>
+        <height>2263</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>13</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>390</xmin>
+            <ymin>1989</ymin>
+            <xmax>660</xmax>
+            <ymax>2263</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>13</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1025</xmin>
+            <ymin>0</ymin>
+            <xmax>1233</xmax>
+            <ymax>686</ymax>
+        </bndbox>
+    </object>
+</annotation>

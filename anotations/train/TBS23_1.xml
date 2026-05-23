@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>TBS23_1.jpg</filename>
+    <path>internetdataug\TBS23_1.jpg</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>355</width>
+        <height>175</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>8</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>15</xmin>
+            <ymin>1</ymin>
+            <xmax>324</xmax>
+            <ymax>153</ymax>
+        </bndbox>
+    </object>
+</annotation>

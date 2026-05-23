@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>fieldTMV (5)_6.jpg</filename>
+    <path>inhouse\fieldTMV (5)_6.JPG</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3233</width>
+        <height>4440</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>13</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>804</xmin>
+            <ymin>358</ymin>
+            <xmax>2752</xmax>
+            <ymax>3714</ymax>
+        </bndbox>
+    </object>
+</annotation>

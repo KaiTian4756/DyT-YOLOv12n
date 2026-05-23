@@ -1,0 +1,26 @@
+<annotation>
+    <folder>baidiaug</folder>
+    <filename>DSC01242_3.jpg</filename>
+    <path>inhouse\DSC01242_3.JPG</path>    
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>818</width>
+        <height>4760</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>14</name>
+        <pose>Unspecified</pose>
+        <truncated>1</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>346</xmin>
+            <ymin>2349</ymin>
+            <xmax>657</xmax>
+            <ymax>2610</ymax>
+        </bndbox>
+    </object>
+</annotation>
